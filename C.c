@@ -199,7 +199,7 @@ void writeToFile(ZAVODNIK *zav, int pocet)
 
     for (int i = 0; i < pocet; ++i)
     {
-        secToTime(timeToSec(zav[i].cas.hodiny + zav[i].cas.hodiny, zav[i].cas.minuty + zav[i].cas.minuty, zav[i].cas.sekundy + zav[i].cas.sekundy) - prvset, ztrata);
+        secToTime(timeToSec(zav[i].cas.hodiny, zav[i].cas.minuty, zav[i].cas.sekundy) - prvset, ztrata);
         fprintf(fw, "%6d|%15d|%14s|%11s|%11s|%8d|%33s| %02d:%02d:%0.2f%s|%s%s|\n",
                 i + 1,
                 zav[i].cislo,

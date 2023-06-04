@@ -4,110 +4,110 @@
 PORADI|STARTOVNI CISLO|      PRIJMENI|      JMENO|  NARODNOST|  ROCNIK|                             KLUB|         CAS|   ZTRATA|
 --------------------------------------------------------------------------------------------------------------------------------
      1|           5002|       JOBANEK|        Jan|        CZE|    1983|          Superior Suninvent Team| 09:19:9.90 |         |
-     2|           5001|        FOJTIK|        Jan|        CZE|    1988|                   FORCE KCK Zlin| 09:23:45.40|+09:28:21|
-     3|           5003|       STASTNY|       Petr|        CZE|    1988|                       RAJEC TREK| 09:25:34.40|+09:31:59|
-     4|           5121|         HARTL|      Karel|        CZE|    1977|                      STARBIKE.SK| 09:41:16.40|+10:03:23|
-     5|           5007|         SROLL|      Marek|        CZE|    1978|       VELOCENTRUM - STRATOS AUTO| 09:44:40.40|+10:10:11|
-     6|           5095|          SIBL|   Radoslav|        CZE|    1980| Cyklobulis Bystrice pod Hostynem| 09:56:52.90|+10:34:36|
-     7|           5005|         KOZAK|      Tomas|        CZE|    1971|                 CYKLOTRENINK.com| 09:58:30.70|+10:37:52|
-     8|           5085|       KESTLER|       Ales|        CZE|    1981|              YOGI Racing Ostrava| 10:10:41.20|+11:02:13|
-     9|           5072|      DITTRICH|       Jiri|        CZE|    1984|                F-BIKE KLUB SADEK| 10:15:52.70|+11:12:36|
-    10|           5004|        KALITA|      Tomas|        CZE|    1988|                       SK BAgBIKE| 10:25:28.30|+11:31:47|
-    11|           5093|        KECHRT|      Tomas|        CZE|    1981|               PRIME sport expert| 10:26:16.80|+11:33:24|
-    12|           5092|        VLASEK|     Michal|        CZE|    1989|           KELLYS BIKE RANCH TEAM| 10:29:8.00 |+11:39:07|
-    13|           5015|      VACLAVEK|      Lukas|        CZE|    1991|        Kolovna KM - BT Morkovice| 10:29:58.30|+11:40:47|
-    14|           5009|        KUCERA|      Tomas|        CZE|    1977|           SKIBIKECENTRUM.CZ team| 10:36:31.30|+11:53:53|
-    15|           5023|         VAVRA|       Ales|        CZE|    1982|                     ANAG Olomouc| 10:40:38.00|+12:02:07|
-    16|           5010|       SAMOHYL|      Milan|        CZE|    1976|   V.I.K. MouldPRO Zlin team TREK| 10:40:57.00|+12:02:45|
-    17|           5096|         JANDA|      Tomas|        CZE|    1972|           MS Bike Academy Racing| 10:42:8.60 |+12:05:08|
-    18|           5068|         PACLT|      Tomas|        CZE|    1983|                 N.A.C.O. LIBEREC| 10:49:47.30|+12:20:25|
-    19|           5091|         HOLUB|      Milan|        CZE|    1982|                       SK BAgBIKE| 10:50:7.80 |+12:21:06|
-    20|           5107|        BARTAK|      Radim|        CZE|    1980|        Kolovna KM - BT Morkovice| 10:50:26.10|+12:21:43|
-    21|           5130|        KVETON|       Jiri|        CZE|    1984|               Ck Horni Bludovice| 11:02:22.60|+12:45:36|
-    22|           5070|      PAVLICEK|      Radek|        CZE|    1981|                          NeoVize| 11:06:18.40|+12:53:27|
-    23|           5080|       LINHART|       Petr|        CZE|    1991|                Kolovna Bike Team| 11:10:35.90|+13:02:02|
-    24|           5024|        SNOBEL|     Zdenek|        CZE|    1965|                              ---| 11:12:25.60|+13:05:42|
-    25|           5103|        VOJTEK|      Libor|        CZE|    1984|               ENDEKA BASSTA team| 11:14:18.60|+13:09:28|
-    26|           5006|      ISTENCIN|      Lukas|        CZE|    1977| Erste Premier Petr Cech MTB Team| 11:21:7.40 |+13:23:05|
-    27|           5028|        ZEDNIK|      Pavel|        CZE|    1979|                Cykloklub Dalecin| 11:25:27.70|+13:31:46|
-    28|           5016|       KLOUPAR|      Karel|        CZE|    1978|                         CK SALAS| 11:28:18.70|+13:37:28|
-    29|           5083|          BRAZ|   Ladislav|        SVK|    1974|              Horal Alto Slovakia| 11:31:20.70|+13:43:32|
-    30|           5033|       PALASEK|       Igor|        CZE|    1975|         OCA-Open Cycling Academy| 11:31:52.20|+13:44:35|
-    31|           5082|      KRIVANEK|      Tomas|        CZE|    1994|                 Cyklosport Unite| 11:36:59.40|+13:54:49|
-    32|           5017|      STEPANEK|      Pavel|        CZE|    1973|               AEROTEC SPORT TEAM| 11:39:36.90|+14:00:04|
-    33|           5011|         SUSIR|      Radek|        CZE|    1979|                 Truxxxik cycling| 11:39:37.20|+14:00:05|
-    34|           5021|       NEVORAL|       Petr|        CZE|    1986|                      I.Kamenicka| 11:39:53.20|+14:00:37|
-    35|           5019|       NEVORAL|       Jiri|        CZE|    1983|                      Cyklo Galik| 11:40:8.70 |+14:01:08|
-    36|           5038|        MENSIK|        Jan|        CZE|    1977|               Kromerizske bajker| 11:46:28.70|+14:13:48|
-    37|           5026|          FOJT|      Milic|        CZE|    1972|              CYKLOSPORT CHROPYNE| 11:56:56.70|+14:34:44|
-    38|           5110|      MACHACEK|      Pavel|        CZE|    1972|                  Margl Bike Team| 12:00:31.50|+14:41:54|
-    39|           5134|        BARTIK|     Patrik|        CZE|    1976|                              ---| 12:00:39.00|+14:42:09|
-    40|           5089|       KLEMENT|      Jakub|        CZE|    1986|                         CK SALAS| 12:10:26.80|+15:01:44|
-    41|           5132| SLAVIK+SLAVIK| Jiri+dusan|        CZE|    1979|                              ---| 12:16:26.30|+15:13:43|
-    42|           5022|        NESPOR|     Patrik|        CZE|    1986|             IN-LIFE Cycling team| 12:23:24.80|+15:27:40|
-    43|           5081|         CIZEK|  Frantisek|        CZE|    1976|               EURYBIA YACHT CLUB| 12:23:24.60|+15:27:40|
-    44|           5018|       SMEJKAL|      Roman|        CZE|    1976|                Synerga Bike Team| 12:23:26.30|+15:27:43|
-    45|           5097|       NERADIL|      Tomas|        CZE|    1974|              Cykloteam MXM Hulin| 12:25:35.60|+15:32:02|
-    46|           5077|          PEZA|        Jan|        CZE|    1984|            Bottecchia - CZ Cyklo| 12:28:28.10|+15:37:47|
-    47|           5088|        SEVCIK|      Kamil|        CZE|    1990|                        KolovnaKM| 12:31:17.80|+15:43:26|
-    48|           5084|         SYTAR|      Tomas|        CZE|    1974|                    Koloshop Team| 12:32:7.10 |+15:45:05|
-    49|           5120|      CHYTILEK|   Jaroslav|        CZE|    1978|                  LUKO SLAPETOTYM| 12:32:22.60|+15:45:36|
-    50|           5113|    KOLOMAZNIK|   Miroslav|        CZE|    1963|                OD Morava Holesov| 12:33:9.80 |+15:47:10|
-    51|           5079|       KRATINA|      Tomas|        CZE|    1990|            Slanica FreeRide Zlin| 12:33:59.70|+15:48:50|
-    52|           5075|       BOROVEC|        Ivo|        CZE|    1976|                              ---| 12:35:16.80|+15:51:24|
-    53|           5053|        STETAR|   Jaroslav|        CZE|    1977|                              ---| 12:36:2.80 |+15:52:56|
-    54|           5102|       KREJCIK|     Ondrej|        CZE|    1972|                       Beespee.cz| 12:39:28.80|+15:59:48|
-    55|           5133|       MAZUREK|     Martin|        CZE|    1971|                  CYKLO MXM HULIN| 12:43:47.10|+16:08:25|
-    56|           5037|        GABRIS|        Jan|        CZE|    1963|            GAPP System - Cabtech| 12:47:18.90|+16:15:28|
-    57|           5111|      PETRILAK|       Petr|        CZE|    1995|        24team Endorphin Republic| 12:47:18.60|+16:15:28|
-    58|           5044|       CECHURA|       Jiri|        CZE|    1964|                      Cisty sport| 12:50:46.10|+16:22:23|
-    59|           5027|         VANEK|       Petr|        CZE|    1973|                 MTB Kozi Chlivek| 13:02:14.20|+16:45:19|
-    60|           5046|        BUCNAK|     Ondrej|        CZE|    1991|          Kolovna KM-BT Morkovice| 13:03:51.20|+16:48:33|
-    61|           5094|         CALDR|   Jaroslav|        CZE|    1970|                            PRAHA| 13:07:41.90|+16:56:14|
-    62|           5090|        MANCIK|  Stanislav|        CZE|    1968|        CK SALAS Slovacka kolovna| 13:09:56.40|+17:00:43|
-    63|           5067|        PAVLIK|      Radim|        CZE|    1973|                  Valachbajk team| 13:10:38.70|+17:02:08|
-    64|           5125|      KOZESNIK|       Jiri|        USA|    1959|                              ---| 13:10:39.70|+17:02:10|
-    65|           5069|       TOMECEK|       Petr|        CZE|    1971|                      RBT Slimaci| 13:16:56.40|+17:14:43|
-    66|           5050|        PRIBYL|      Tomas|        CZE|    1960|            GAPP System - Cabtech| 13:20:7.20 |+17:21:05|
-    67|           5063|         KRYZE|      Pavel|        CZE|    1970|                              ---| 13:22:25.20|+17:25:41|
-    68|           5086|     LUXEMBURK|   Jaroslav|        CZE|    1971|                              ---| 13:31:33.50|+17:43:58|
-    69|           5020|        KIVALS|      Lerak|        CZE|    1974|                              ---| 13:38:37.80|+17:58:06|
-    70|           5078|          PEZA|     Zdenek|        CZE|    1962|               Bottechia cz cyklo| 13:40:8.50 |+18:01:08|
-    71|           5115|        PLANKA|    Dalibor|        CZE|    1988|         DK Bike shop Racing team| 13:41:36.60|+18:04:04|
-    72|           5126|        BRECKA|      Tomas|        CZE|    1977|                   NANY BIKE ZLIN| 13:42:49.80|+18:06:30|
-    73|           5065|        VOSTAL|       Petr|        CZE|    1974|             energetikastaveb.com| 13:46:1.30 |+18:12:53|
-    74|           5109|         ZEJDA|       Petr|        CZE|    1978|             VelMez Rocky Factory| 13:46:19.30|+18:13:29|
-    75|           5117|       KONICEK|      Pavel|        CZE|    1971|        PINKHORSES Team Bojkovice| 13:47:26.50|+18:15:44|
-    76|           5076|        HRABAL|       Petr|        CZE|    1975|                PBV MTB Team Brno| 13:47:43.30|+18:16:17|
-    77|           5087|      MAROUSEK|  Frantisek|        CZE|    1995|                              ---| 13:48:12.50|+18:17:16|
-    78|           5049|         TICHY|      Pavel|        CZE|    1970|                                C| 13:51:16.80|+18:23:24|
-    79|           5042|       KRUPICA|      Pavel|        CZE|    1971|       MTB TEAM Kovarstvi Krupica| 13:54:6.80 |+18:29:04|
-    80|           5034|     PISTOVCAK|      Roman|        CZE|    1970|            TJ Lokomotiva Breclav| 13:54:23.30|+18:29:37|
-    81|           5036|      PAVLOREK|       Adam|        CZE|    1987|               SK Ocelaci Ostrava| 13:54:23.50|+18:29:38|
-    82|           5051|         SAUER|   Ladislav|        CZE|    1976|                Cykloklub Dalecin| 13:54:23.50|+18:29:38|
-    83|           5045|      KOCMANEK|   Ladislav|        CZE|    1990|                       Relax Brno| 13:58:38.00|+18:38:07|
-    84|           5071|      FROHLICH|  Vlastimil|        CZE|    1973|                           Supici| 14:00:13.50|+18:41:18|
-    85|           5124|     FRYSTACKY|      Pavel|        CZE|    1980|              Drasal TEAM Holesov| 14:06:4.80 |+18:53:00|
-    86|           5043|        SNAJDR|     Michal|        CZE|    1988|                  TJ Sokol Vracov| 14:06:25.80|+18:53:42|
-    87|           5123|  SERAFINOWSKI|      Piotr|        POL|    1965|               OPONY SERAFINOWSKI| 14:09:3.80 |+18:58:58|
-    88|           5073|       KOPRIVA|   Jaroslav|        CZE|    1984|                     SK Pacetluky| 14:09:7.80 |+18:59:06|
-    89|           5100|      KROPACEK|        Jan|        CZE|    1983|               Slecinky Napajedla| 14:14:40.60|+19:10:12|
-    90|           5108|      VINGAREK|       Jiri|        CZE|    1970|                              ---| 14:14:52.80|+19:10:36|
-    91|           5106|        NAVARA|      Karel|        CZE|    1977|                              ---| 14:21:1.40 |+19:22:53|
-    92|           5030|      STEJSKAL|     Martin|        CZE|    1971|                          DRES.CZ| 14:22:50.40|+19:26:31|
-    93|           5064|       KOLARIK|   Miroslav|        CZE|    1978|               Slecinky Napajedla| 14:24:31.40|+19:29:53|
-    94|           5129|        PRUCHA|     Josesf|        CZE|    1971|                        CBC TEAMm| 14:24:55.10|+19:30:41|
-    95|           5041|       BUSKOVA|      Leona|        CZE|    1972|                       GHOST Team| 14:25:58.60|+19:32:48|
-    96|           5048|       ULLRICH|       Jiri|        CZE|    1979|                       Team Louny| 14:28:32.60|+19:37:56|
-    97|           5059|        PINDAK|       Jiri|        CZE|    1960|                    OCELOVi LETCI| 14:30:37.10|+19:42:05|
-    98|           5062|    SICHALKOVA|    Natalie|        CZE|    1994|                              ---| 14:32:14.60|+19:45:20|
-    99|           5058|      BUKOVSKY|      Juraj|        SVK|    1977|                              ---| 14:32:15.60|+19:45:22|
-   100|           5118|     LESKOVJAN|      Tomas|        CZE|    1976|                              ---| 14:33:55.40|+19:48:41|
-   101|           5052|      MEJDRECH|      Lukas|        CZE|    1985|                          PRAHA 5| 14:48:27.70|+20:17:46|
-   102|           5040|       SLECHTA|       Petr|        CZE|    1976|                 Symbio+CE Energy| 14:50:54.90|+20:22:40|
-   103|           5127|       HUBACEK|    Oldrich|        CZE|    1961|   Sokol Zelechovice nad Drevnici| 14:53:40.30|+20:28:11|
-   104|           5035|         ZABOJ|      Karel|        CZE|    1958|           Wienerberger-Jezernice| 15:00:33.70|+20:41:58|
-   105|           5056|       FILIPEK|       Petr|        CZE|    1984|                              ---| 15:17:4.50 |+21:15:00|
-   106|           5066|        BREYER|      Lukas|        CZE|    1975|                              ---| 15:17:6.00 |+21:15:03|
-   107|           5112|    KOLOMAZNIK|   Ladislav|        CZE|    1983|                         CK SALAS| 15:17:37.00|+21:16:05|
-   108|           5025|       FELCMAN|     Michal|        CZE|    1983|                              ---| 15:36:40.30|+21:54:11|
+     2|           5001|        FOJTIK|        Jan|        CZE|    1988|                   FORCE KCK Zlin| 09:23:45.40|+00:04:36|
+     3|           5003|       STASTNY|       Petr|        CZE|    1988|                       RAJEC TREK| 09:25:34.40|+00:06:25|
+     4|           5121|         HARTL|      Karel|        CZE|    1977|                      STARBIKE.SK| 09:41:16.40|+00:22:07|
+     5|           5007|         SROLL|      Marek|        CZE|    1978|       VELOCENTRUM - STRATOS AUTO| 09:44:40.40|+00:25:31|
+     6|           5095|          SIBL|   Radoslav|        CZE|    1980| Cyklobulis Bystrice pod Hostynem| 09:56:52.90|+00:37:43|
+     7|           5005|         KOZAK|      Tomas|        CZE|    1971|                 CYKLOTRENINK.com| 09:58:30.70|+00:39:21|
+     8|           5085|       KESTLER|       Ales|        CZE|    1981|              YOGI Racing Ostrava| 10:10:41.20|+00:51:32|
+     9|           5072|      DITTRICH|       Jiri|        CZE|    1984|                F-BIKE KLUB SADEK| 10:15:52.70|+00:56:43|
+    10|           5004|        KALITA|      Tomas|        CZE|    1988|                       SK BAgBIKE| 10:25:28.30|+01:06:19|
+    11|           5093|        KECHRT|      Tomas|        CZE|    1981|               PRIME sport expert| 10:26:16.80|+01:07:07|
+    12|           5092|        VLASEK|     Michal|        CZE|    1989|           KELLYS BIKE RANCH TEAM| 10:29:8.00 |+01:09:59|
+    13|           5015|      VACLAVEK|      Lukas|        CZE|    1991|        Kolovna KM - BT Morkovice| 10:29:58.30|+01:10:49|
+    14|           5009|        KUCERA|      Tomas|        CZE|    1977|           SKIBIKECENTRUM.CZ team| 10:36:31.30|+01:17:22|
+    15|           5023|         VAVRA|       Ales|        CZE|    1982|                     ANAG Olomouc| 10:40:38.00|+01:21:29|
+    16|           5010|       SAMOHYL|      Milan|        CZE|    1976|   V.I.K. MouldPRO Zlin team TREK| 10:40:57.00|+01:21:48|
+    17|           5096|         JANDA|      Tomas|        CZE|    1972|           MS Bike Academy Racing| 10:42:8.60 |+01:22:59|
+    18|           5068|         PACLT|      Tomas|        CZE|    1983|                 N.A.C.O. LIBEREC| 10:49:47.30|+01:30:38|
+    19|           5091|         HOLUB|      Milan|        CZE|    1982|                       SK BAgBIKE| 10:50:7.80 |+01:30:58|
+    20|           5107|        BARTAK|      Radim|        CZE|    1980|        Kolovna KM - BT Morkovice| 10:50:26.10|+01:31:17|
+    21|           5130|        KVETON|       Jiri|        CZE|    1984|               Ck Horni Bludovice| 11:02:22.60|+01:43:13|
+    22|           5070|      PAVLICEK|      Radek|        CZE|    1981|                          NeoVize| 11:06:18.40|+01:47:09|
+    23|           5080|       LINHART|       Petr|        CZE|    1991|                Kolovna Bike Team| 11:10:35.90|+01:51:26|
+    24|           5024|        SNOBEL|     Zdenek|        CZE|    1965|                              ---| 11:12:25.60|+01:53:16|
+    25|           5103|        VOJTEK|      Libor|        CZE|    1984|               ENDEKA BASSTA team| 11:14:18.60|+01:55:09|
+    26|           5006|      ISTENCIN|      Lukas|        CZE|    1977| Erste Premier Petr Cech MTB Team| 11:21:7.40 |+02:01:58|
+    27|           5028|        ZEDNIK|      Pavel|        CZE|    1979|                Cykloklub Dalecin| 11:25:27.70|+02:06:18|
+    28|           5016|       KLOUPAR|      Karel|        CZE|    1978|                         CK SALAS| 11:28:18.70|+02:09:09|
+    29|           5083|          BRAZ|   Ladislav|        SVK|    1974|              Horal Alto Slovakia| 11:31:20.70|+02:12:11|
+    30|           5033|       PALASEK|       Igor|        CZE|    1975|         OCA-Open Cycling Academy| 11:31:52.20|+02:12:43|
+    31|           5082|      KRIVANEK|      Tomas|        CZE|    1994|                 Cyklosport Unite| 11:36:59.40|+02:17:50|
+    32|           5017|      STEPANEK|      Pavel|        CZE|    1973|               AEROTEC SPORT TEAM| 11:39:36.90|+02:20:27|
+    33|           5011|         SUSIR|      Radek|        CZE|    1979|                 Truxxxik cycling| 11:39:37.20|+02:20:28|
+    34|           5021|       NEVORAL|       Petr|        CZE|    1986|                      I.Kamenicka| 11:39:53.20|+02:20:44|
+    35|           5019|       NEVORAL|       Jiri|        CZE|    1983|                      Cyklo Galik| 11:40:8.70 |+02:20:59|
+    36|           5038|        MENSIK|        Jan|        CZE|    1977|               Kromerizske bajker| 11:46:28.70|+02:27:19|
+    37|           5026|          FOJT|      Milic|        CZE|    1972|              CYKLOSPORT CHROPYNE| 11:56:56.70|+02:37:47|
+    38|           5110|      MACHACEK|      Pavel|        CZE|    1972|                  Margl Bike Team| 12:00:31.50|+02:41:22|
+    39|           5134|        BARTIK|     Patrik|        CZE|    1976|                              ---| 12:00:39.00|+02:41:30|
+    40|           5089|       KLEMENT|      Jakub|        CZE|    1986|                         CK SALAS| 12:10:26.80|+02:51:17|
+    41|           5132| SLAVIK+SLAVIK| Jiri+dusan|        CZE|    1979|                              ---| 12:16:26.30|+02:57:17|
+    42|           5022|        NESPOR|     Patrik|        CZE|    1986|             IN-LIFE Cycling team| 12:23:24.80|+03:04:15|
+    43|           5081|         CIZEK|  Frantisek|        CZE|    1976|               EURYBIA YACHT CLUB| 12:23:24.60|+03:04:15|
+    44|           5018|       SMEJKAL|      Roman|        CZE|    1976|                Synerga Bike Team| 12:23:26.30|+03:04:17|
+    45|           5097|       NERADIL|      Tomas|        CZE|    1974|              Cykloteam MXM Hulin| 12:25:35.60|+03:06:26|
+    46|           5077|          PEZA|        Jan|        CZE|    1984|            Bottecchia - CZ Cyklo| 12:28:28.10|+03:09:19|
+    47|           5088|        SEVCIK|      Kamil|        CZE|    1990|                        KolovnaKM| 12:31:17.80|+03:12:08|
+    48|           5084|         SYTAR|      Tomas|        CZE|    1974|                    Koloshop Team| 12:32:7.10 |+03:12:58|
+    49|           5120|      CHYTILEK|   Jaroslav|        CZE|    1978|                  LUKO SLAPETOTYM| 12:32:22.60|+03:13:13|
+    50|           5113|    KOLOMAZNIK|   Miroslav|        CZE|    1963|                OD Morava Holesov| 12:33:9.80 |+03:14:00|
+    51|           5079|       KRATINA|      Tomas|        CZE|    1990|            Slanica FreeRide Zlin| 12:33:59.70|+03:14:50|
+    52|           5075|       BOROVEC|        Ivo|        CZE|    1976|                              ---| 12:35:16.80|+03:16:07|
+    53|           5053|        STETAR|   Jaroslav|        CZE|    1977|                              ---| 12:36:2.80 |+03:16:53|
+    54|           5102|       KREJCIK|     Ondrej|        CZE|    1972|                       Beespee.cz| 12:39:28.80|+03:20:19|
+    55|           5133|       MAZUREK|     Martin|        CZE|    1971|                  CYKLO MXM HULIN| 12:43:47.10|+03:24:38|
+    56|           5037|        GABRIS|        Jan|        CZE|    1963|            GAPP System - Cabtech| 12:47:18.90|+03:28:09|
+    57|           5111|      PETRILAK|       Petr|        CZE|    1995|        24team Endorphin Republic| 12:47:18.60|+03:28:09|
+    58|           5044|       CECHURA|       Jiri|        CZE|    1964|                      Cisty sport| 12:50:46.10|+03:31:37|
+    59|           5027|         VANEK|       Petr|        CZE|    1973|                 MTB Kozi Chlivek| 13:02:14.20|+03:43:05|
+    60|           5046|        BUCNAK|     Ondrej|        CZE|    1991|          Kolovna KM-BT Morkovice| 13:03:51.20|+03:44:42|
+    61|           5094|         CALDR|   Jaroslav|        CZE|    1970|                            PRAHA| 13:07:41.90|+03:48:32|
+    62|           5090|        MANCIK|  Stanislav|        CZE|    1968|        CK SALAS Slovacka kolovna| 13:09:56.40|+03:50:47|
+    63|           5067|        PAVLIK|      Radim|        CZE|    1973|                  Valachbajk team| 13:10:38.70|+03:51:29|
+    64|           5125|      KOZESNIK|       Jiri|        USA|    1959|                              ---| 13:10:39.70|+03:51:30|
+    65|           5069|       TOMECEK|       Petr|        CZE|    1971|                      RBT Slimaci| 13:16:56.40|+03:57:47|
+    66|           5050|        PRIBYL|      Tomas|        CZE|    1960|            GAPP System - Cabtech| 13:20:7.20 |+04:00:58|
+    67|           5063|         KRYZE|      Pavel|        CZE|    1970|                              ---| 13:22:25.20|+04:03:16|
+    68|           5086|     LUXEMBURK|   Jaroslav|        CZE|    1971|                              ---| 13:31:33.50|+04:12:24|
+    69|           5020|        KIVALS|      Lerak|        CZE|    1974|                              ---| 13:38:37.80|+04:19:28|
+    70|           5078|          PEZA|     Zdenek|        CZE|    1962|               Bottechia cz cyklo| 13:40:8.50 |+04:20:59|
+    71|           5115|        PLANKA|    Dalibor|        CZE|    1988|         DK Bike shop Racing team| 13:41:36.60|+04:22:27|
+    72|           5126|        BRECKA|      Tomas|        CZE|    1977|                   NANY BIKE ZLIN| 13:42:49.80|+04:23:40|
+    73|           5065|        VOSTAL|       Petr|        CZE|    1974|             energetikastaveb.com| 13:46:1.30 |+04:26:52|
+    74|           5109|         ZEJDA|       Petr|        CZE|    1978|             VelMez Rocky Factory| 13:46:19.30|+04:27:10|
+    75|           5117|       KONICEK|      Pavel|        CZE|    1971|        PINKHORSES Team Bojkovice| 13:47:26.50|+04:28:17|
+    76|           5076|        HRABAL|       Petr|        CZE|    1975|                PBV MTB Team Brno| 13:47:43.30|+04:28:34|
+    77|           5087|      MAROUSEK|  Frantisek|        CZE|    1995|                              ---| 13:48:12.50|+04:29:03|
+    78|           5049|         TICHY|      Pavel|        CZE|    1970|                                C| 13:51:16.80|+04:32:07|
+    79|           5042|       KRUPICA|      Pavel|        CZE|    1971|       MTB TEAM Kovarstvi Krupica| 13:54:6.80 |+04:34:57|
+    80|           5034|     PISTOVCAK|      Roman|        CZE|    1970|            TJ Lokomotiva Breclav| 13:54:23.30|+04:35:14|
+    81|           5036|      PAVLOREK|       Adam|        CZE|    1987|               SK Ocelaci Ostrava| 13:54:23.50|+04:35:14|
+    82|           5051|         SAUER|   Ladislav|        CZE|    1976|                Cykloklub Dalecin| 13:54:23.50|+04:35:14|
+    83|           5045|      KOCMANEK|   Ladislav|        CZE|    1990|                       Relax Brno| 13:58:38.00|+04:39:29|
+    84|           5071|      FROHLICH|  Vlastimil|        CZE|    1973|                           Supici| 14:00:13.50|+04:41:04|
+    85|           5124|     FRYSTACKY|      Pavel|        CZE|    1980|              Drasal TEAM Holesov| 14:06:4.80 |+04:46:55|
+    86|           5043|        SNAJDR|     Michal|        CZE|    1988|                  TJ Sokol Vracov| 14:06:25.80|+04:47:16|
+    87|           5123|  SERAFINOWSKI|      Piotr|        POL|    1965|               OPONY SERAFINOWSKI| 14:09:3.80 |+04:49:54|
+    88|           5073|       KOPRIVA|   Jaroslav|        CZE|    1984|                     SK Pacetluky| 14:09:7.80 |+04:49:58|
+    89|           5100|      KROPACEK|        Jan|        CZE|    1983|               Slecinky Napajedla| 14:14:40.60|+04:55:31|
+    90|           5108|      VINGAREK|       Jiri|        CZE|    1970|                              ---| 14:14:52.80|+04:55:43|
+    91|           5106|        NAVARA|      Karel|        CZE|    1977|                              ---| 14:21:1.40 |+05:01:52|
+    92|           5030|      STEJSKAL|     Martin|        CZE|    1971|                          DRES.CZ| 14:22:50.40|+05:03:41|
+    93|           5064|       KOLARIK|   Miroslav|        CZE|    1978|               Slecinky Napajedla| 14:24:31.40|+05:05:22|
+    94|           5129|        PRUCHA|     Josesf|        CZE|    1971|                        CBC TEAMm| 14:24:55.10|+05:05:46|
+    95|           5041|       BUSKOVA|      Leona|        CZE|    1972|                       GHOST Team| 14:25:58.60|+05:06:49|
+    96|           5048|       ULLRICH|       Jiri|        CZE|    1979|                       Team Louny| 14:28:32.60|+05:09:23|
+    97|           5059|        PINDAK|       Jiri|        CZE|    1960|                    OCELOVi LETCI| 14:30:37.10|+05:11:28|
+    98|           5062|    SICHALKOVA|    Natalie|        CZE|    1994|                              ---| 14:32:14.60|+05:13:05|
+    99|           5058|      BUKOVSKY|      Juraj|        SVK|    1977|                              ---| 14:32:15.60|+05:13:06|
+   100|           5118|     LESKOVJAN|      Tomas|        CZE|    1976|                              ---| 14:33:55.40|+05:14:46|
+   101|           5052|      MEJDRECH|      Lukas|        CZE|    1985|                          PRAHA 5| 14:48:27.70|+05:29:18|
+   102|           5040|       SLECHTA|       Petr|        CZE|    1976|                 Symbio+CE Energy| 14:50:54.90|+05:31:45|
+   103|           5127|       HUBACEK|    Oldrich|        CZE|    1961|   Sokol Zelechovice nad Drevnici| 14:53:40.30|+05:34:31|
+   104|           5035|         ZABOJ|      Karel|        CZE|    1958|           Wienerberger-Jezernice| 15:00:33.70|+05:41:24|
+   105|           5056|       FILIPEK|       Petr|        CZE|    1984|                              ---| 15:17:4.50 |+05:57:55|
+   106|           5066|        BREYER|      Lukas|        CZE|    1975|                              ---| 15:17:6.00 |+05:57:57|
+   107|           5112|    KOLOMAZNIK|   Ladislav|        CZE|    1983|                         CK SALAS| 15:17:37.00|+05:58:28|
+   108|           5025|       FELCMAN|     Michal|        CZE|    1983|                              ---| 15:36:40.30|+06:17:31|
